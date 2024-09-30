@@ -18,7 +18,14 @@ Great, Elastic Search and Kibana is now running.
 * ### Access Elastic Search
 
   Elastic Search can be access through ```curl``` command using ```http://localhost:9200/```
-  
+
+* ### Access Elastic Search using Python
+  Install ```elasticsearch```
+
+  ```pip install elasticsearch```
+
+  Python script is present in this repository.
+
 
 ## If you liked this repository
 
